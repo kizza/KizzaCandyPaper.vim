@@ -1,4 +1,4 @@
-" Theme: CandyPaper
+" Theme: KizzaCandyPaper
 " Author: DF_XYZ
 " License: MIT
 " Description: A dark theme inspired by PaperColor and CandyCode.
@@ -8,7 +8,7 @@ highlight clear
 if exists('syntax_on')
     syntax reset
 endif
-let g:colors_name = "CandyPaper"
+let g:colors_name = "KizzaCandyPaper"
 
 " Color Palette: {{{
 let s:white         = '#d3d9ce'  " 90 5 85
